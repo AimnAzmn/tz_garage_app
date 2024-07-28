@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "76512477495",
+    "project_id": "tzdb-2a615",
+    "storage_bucket": "tzdb-2a615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76512477495:android:05eba787e34a4e1feb9ab2",
+        "android_client_info": {
+          "package_name": "com.example.tz_garage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76512477495-3j6ksopqp17gi838srrrmpon5us941jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tz_garage_app",
+            "certificate_hash": "70ed00854f6cdee0e64b1b1b3fda44953ba4558c"
+          }
+        },
+        {
+          "client_id": "76512477495-bps1980nrj8dflih87q450r0p0gaqr8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1E77wo3-PQOLIIiz4c0eH1uf9HvDCIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76512477495-bps1980nrj8dflih87q450r0p0gaqr8t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76512477495-bvic8sh1s8m4okme0ese0gl0hvfv22t1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tz_garage_app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76512477495:android:2341073cc6290faceb9ab2",
+        "android_client_info": {
+          "package_name": "com.example.tz_garage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76512477495-bps1980nrj8dflih87q450r0p0gaqr8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1E77wo3-PQOLIIiz4c0eH1uf9HvDCIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76512477495-bps1980nrj8dflih87q450r0p0gaqr8t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76512477495-bvic8sh1s8m4okme0ese0gl0hvfv22t1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tz_garage_app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
